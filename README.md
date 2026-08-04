@@ -7,10 +7,10 @@
 ## 🔧 Tech Stack
 Java | HTML | CSS | JavaScript | MySQL | Flask  
 
-## 📌 Featured Projects
-- Student Attendance System  
-- Careconnect Platform  
-- Weather App  
+## 📌 Featured Projects 
+- Careconnect Platform
+- ResQHub
+- NyayaSathi
 
 ## 📫 Connect
 LinkedIn: https://www.linkedin.com/in/shubhamprince/
